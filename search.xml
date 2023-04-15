@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>黄琴是猪</title>
-    <url>/2023/04/14/Hq/</url>
-    <content><![CDATA[<p>There is a truth that Qin H. is hengheng.</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/04/14/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -27,6 +18,15 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>黄琴是猪</title>
+    <url>/2023/04/14/Hq/</url>
+    <content><![CDATA[<p>There is a truth that Qin H. is hengheng.</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
   </entry>
   <entry>
     <title>hexo nest 网页优化 常见问题汇总</title>
@@ -55,12 +55,20 @@
 ]]></content>
   </entry>
   <entry>
+    <title>网站建立纪念日</title>
+    <url>/2023/04/14/mode/</url>
+    <content><![CDATA[<h2 id="纪念日记录"><a class="header-anchor" href="#纪念日记录">¶</a>纪念日记录</h2>
+<p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
+]]></content>
+  </entry>
+  <entry>
     <title>论文研究</title>
     <url>/2018/05/30/pdf_upload/</url>
     <content><![CDATA[<center>**端对端记忆网络**</center>
 <br>
-<div class="pdfobject-container" data-target="https://www.thermofisher.cn/document-connect/document-connect.html?url=https://assets.thermofisher.cn/TFS-Assets%2FLSG%2Fmanuals%2FMAN0012652_TranscriptAid_T7_High_Yield_Transcription_UG.pdf" data-height="500px"></div> 
+<div class="pdfobject-container" data-target="/file/a.pdf" data-height="500px"></div> s
 <br>
+<p>参考案例：<a href="https://fengzhenhua-vip.github.io/2021/05/31/Hexo%E4%B8%AD%E5%B1%95%E7%A4%BAPDF%E6%96%87%E6%A1%A3/">Hexo中展示PDF文档 | 格物万象，究理天人 (fengzhenhua-vip.github.io)</a></p>
 ]]></content>
       <categories>
         <category>论文笔记</category>
@@ -68,12 +76,5 @@
       <tags>
         <tag>笔记</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>网站建立纪念日</title>
-    <url>/2023/04/14/mode/</url>
-    <content><![CDATA[<h2 id="纪念日记录"><a class="header-anchor" href="#纪念日记录">¶</a>纪念日记录</h2>
-<p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
-]]></content>
   </entry>
 </search>

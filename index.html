@@ -344,7 +344,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2023-04-15 09:53:24" itemprop="dateModified" datetime="2023-04-15T09:53:24+08:00">2023-04-15</time>
+                <time title="修改时间：2023-04-15 10:27:03" itemprop="dateModified" datetime="2023-04-15T10:27:03+08:00">2023-04-15</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -369,8 +369,9 @@
       
           <center>**端对端记忆网络**</center>
 <br>
-<div class="pdfobject-container" data-target="https://www.thermofisher.cn/document-connect/document-connect.html?url=https://assets.thermofisher.cn/TFS-Assets%2FLSG%2Fmanuals%2FMAN0012652_TranscriptAid_T7_High_Yield_Transcription_UG.pdf" data-height="500px"></div> 
+<div class="pdfobject-container" data-target="/file/a.pdf" data-height="500px"></div> s
 <br>
+<p>参考案例：<a target="_blank" rel="noopener" href="https://fengzhenhua-vip.github.io/2021/05/31/Hexo%E4%B8%AD%E5%B1%95%E7%A4%BAPDF%E6%96%87%E6%A1%A3/">Hexo中展示PDF文档 | 格物万象，究理天人 (fengzhenhua-vip.github.io)</a></p>
 
       
     </div>
@@ -732,6 +733,26 @@
 
 
 
+<script>
+document.querySelectorAll('.pdfobject-container').forEach(element => {
+  let url = element.dataset.target;
+  let pdfOpenParams = {
+    navpanes : 0,
+    toolbar  : 0,
+    statusbar: 0,
+    pagemode : 'thumbs',
+    view     : 'FitH'
+  };
+  let pdfOpenFragment = '#' + Object.entries(pdfOpenParams).map(([key, value]) => `${key}=${encodeURIComponent(value)}`).join('&');
+  let fullURL = `/lib/pdf/web/viewer.html?file=${encodeURIComponent(url)}${pdfOpenFragment}`;
+
+  if (NexT.utils.supportsPDFs()) {
+    element.innerHTML = `<embed class="pdfobject" src="${url + pdfOpenFragment}" type="application/pdf" style="height: ${element.dataset.height};">`;
+  } else {
+    element.innerHTML = `<iframe src="${fullURL}" style="height: ${element.dataset.height};" frameborder="0"></iframe>`;
+  }
+});
+</script>
 
 
 
