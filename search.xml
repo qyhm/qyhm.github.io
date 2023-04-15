@@ -10,40 +10,6 @@
       </categories>
   </entry>
   <entry>
-    <title>hexo nest 网页优化 常见问题汇总</title>
-    <url>/2023/04/14/hexo-nest-web-ERROR&amp;related/</url>
-    <content><![CDATA[<h2 id="问题解决"><a class="header-anchor" href="#问题解决">¶</a>问题解决</h2>
-<h3 id="1-解决Hexo部署时报错：Error-Spawn-failed"><a class="header-anchor" href="#1-解决Hexo部署时报错：Error-Spawn-failed">¶</a>1. 解决Hexo部署时报错：Error: Spawn failed</h3>
-<h4 id="有效解决方法：修改配置"><a class="header-anchor" href="#有效解决方法：修改配置">¶</a>有效解决方法：修改配置</h4>
-<ul>
-<li>打开博客主目录配置文件 <code>_config.yml</code></li>
-<li>修改 <code>deploy.repo</code> 为如下格式：<br>
-<code>git@github.co_config.ymlm:&#123;用户名&#125;/&#123;用户名&#125;.github.io</code></li>
-<li>重新执行<code>hexo clean hexo g hexo d</code></li>
-</ul>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Deployment</span></span><br><span class="line"><span class="comment">## Docs: https://hexo.io/docs/one-command-deployment</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line"> <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line"> <span class="attr">repository:</span> <span class="string">git@github.com:qyhm/qyhm.github.io.git</span></span><br><span class="line"> <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure>
-<p>详见：<a href="%5B%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88MarkDown%E6%96%87%E6%A1%A3%E4%B8%AD%E7%BD%91%E5%9D%80%E7%9A%84%E8%B6%85%E9%93%BE%E6%8E%A5%E5%B1%9E%E6%80%A7_markdown%E5%8F%96%E6%B6%88%E8%B6%85%E9%93%BE%E6%8E%A5_%E5%91%A8%E5%85%AC%E8%A7%A3%E7%A0%81%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2%5D(https://blog.csdn.net/u010250240/article/details/104517927)">分享</a></p>
-<h2 id="个人blog搭建"><a class="header-anchor" href="#个人blog搭建">¶</a>个人blog搭建</h2>
-<h3 id="优秀案例"><a class="header-anchor" href="#优秀案例">¶</a>优秀案例</h3>
-<p>详细过程：<a href="https://bambrow.com/20200715-hexo-blog-guide-1/">https://bambrow.com/20200715-hexo-blog-guide-1/</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>论文研究</title>
-    <url>/2018/05/30/pdf_upload/</url>
-    <content><![CDATA[<center>**端对端记忆网络**</center>
-<br>
-<div class="pdfobject-container" data-target="http://zzmhq.cn/file/a.pdf" data-height="500px"></div> 
-<br>
-]]></content>
-      <categories>
-        <category>论文笔记</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/04/14/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -63,11 +29,45 @@
 ]]></content>
   </entry>
   <entry>
+    <title>hexo nest 网页优化 常见问题汇总</title>
+    <url>/2023/04/14/hexo-nest-web-ERROR&amp;related/</url>
+    <content><![CDATA[<h2 id="问题解决"><a class="header-anchor" href="#问题解决">¶</a>问题解决</h2>
+<h3 id="1-解决Hexo部署时报错：Error-Spawn-failed"><a class="header-anchor" href="#1-解决Hexo部署时报错：Error-Spawn-failed">¶</a>1. 解决Hexo部署时报错：Error: Spawn failed</h3>
+<h4 id="有效解决方法：修改配置"><a class="header-anchor" href="#有效解决方法：修改配置">¶</a>有效解决方法：修改配置</h4>
+<ul>
+<li>打开博客主目录配置文件 <code>_config.yml</code></li>
+<li>修改 <code>deploy.repo</code> 为如下格式：<br>
+<code>git@github.co_config.ymlm:&#123;用户名&#125;/&#123;用户名&#125;.github.io</code></li>
+<li>重新执行<code>hexo clean hexo g hexo d</code></li>
+</ul>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Deployment</span></span><br><span class="line"><span class="comment">## Docs: https://hexo.io/docs/one-command-deployment</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line"> <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line"> <span class="attr">repository:</span> <span class="string">git@github.com:qyhm/qyhm.github.io.git</span></span><br><span class="line"> <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure>
+<p>详见：<a href="%5B%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88MarkDown%E6%96%87%E6%A1%A3%E4%B8%AD%E7%BD%91%E5%9D%80%E7%9A%84%E8%B6%85%E9%93%BE%E6%8E%A5%E5%B1%9E%E6%80%A7_markdown%E5%8F%96%E6%B6%88%E8%B6%85%E9%93%BE%E6%8E%A5_%E5%91%A8%E5%85%AC%E8%A7%A3%E7%A0%81%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2%5D(https://blog.csdn.net/u010250240/article/details/104517927)">分享</a></p>
+<h2 id="个人blog搭建"><a class="header-anchor" href="#个人blog搭建">¶</a>个人blog搭建</h2>
+<h3 id="优秀案例"><a class="header-anchor" href="#优秀案例">¶</a>优秀案例</h3>
+<p>详细过程：<a href="https://bambrow.com/20200715-hexo-blog-guide-1/">https://bambrow.com/20200715-hexo-blog-guide-1/</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Mark down 语法</title>
     <url>/2023/04/14/mark%20down%20yufa/</url>
     <content><![CDATA[<h2 id="Markdown-语法记录"><a class="header-anchor" href="#Markdown-语法记录">¶</a>Markdown 语法记录</h2>
 <p><a href="https://blog.csdn.net/weixin_45494811/article/details/104307670">直达连接</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>论文研究</title>
+    <url>/2018/05/30/pdf_upload/</url>
+    <content><![CDATA[<center>**端对端记忆网络**</center>
+<br>
+<div class="pdfobject-container" data-target="https://www.thermofisher.cn/document-connect/document-connect.html?url=https://assets.thermofisher.cn/TFS-Assets%2FLSG%2Fmanuals%2FMAN0012652_TranscriptAid_T7_High_Yield_Transcription_UG.pdf" data-height="500px"></div> 
+<br>
+]]></content>
+      <categories>
+        <category>论文笔记</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
   </entry>
   <entry>
     <title>网站建立纪念日</title>
