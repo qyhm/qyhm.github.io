@@ -20,7 +20,7 @@
   <entry>
     <title>GUIDE-seq enables genome-wideprofiling of offtarget cleavage by CRISPR-Cas nucleases</title>
     <url>/2023/04/17/Reading/Offtargetdetection/GUIDE/</url>
-    <content><![CDATA[<p><img src="../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
+    <content><![CDATA[<p><img src="/../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
 ]]></content>
       <categories>
         <category>Reading</category>
@@ -29,20 +29,13 @@
   <entry>
     <title>hexo nest 网页优化 常见问题汇总</title>
     <url>/2023/04/14/Blog/hexo-nest-web-ERROR&amp;related/</url>
-    <content><![CDATA[<h2 id="问题解决"><a class="header-anchor" href="#问题解决">¶</a>问题解决</h2>
-<h3 id="1-解决Hexo部署时报错：Error-Spawn-failed"><a class="header-anchor" href="#1-解决Hexo部署时报错：Error-Spawn-failed">¶</a>1. 解决Hexo部署时报错：Error: Spawn failed</h3>
-<h4 id="有效解决方法：修改配置"><a class="header-anchor" href="#有效解决方法：修改配置">¶</a>有效解决方法：修改配置</h4>
-<ul>
+    <content><![CDATA[<h2 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h2><h3 id="1-解决Hexo部署时报错：Error-Spawn-failed"><a href="#1-解决Hexo部署时报错：Error-Spawn-failed" class="headerlink" title="1. 解决Hexo部署时报错：Error: Spawn failed"></a>1. 解决Hexo部署时报错：Error: Spawn failed</h3><h4 id="有效解决方法：修改配置"><a href="#有效解决方法：修改配置" class="headerlink" title="有效解决方法：修改配置"></a>有效解决方法：修改配置</h4><ul>
 <li>打开博客主目录配置文件 <code>_config.yml</code></li>
-<li>修改 <code>deploy.repo</code> 为如下格式：<br>
-<code>git@github.co_config.ymlm:&#123;用户名&#125;/&#123;用户名&#125;.github.io</code></li>
-<li>重新执行<code>hexo clean hexo g hexo d</code></li>
+<li>修改 <code>deploy.repo</code> 为如下格式：<br>  <code>git@github.co_config.ymlm:&#123;用户名&#125;/&#123;用户名&#125;.github.io</code></li>
+<li>重新执行<code>hexo clean hexo g hexo d</code><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Deployment</span></span><br><span class="line"><span class="comment">## Docs: https://hexo.io/docs/one-command-deployment</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line"> <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line"> <span class="attr">repository:</span> <span class="string">git@github.com:qyhm/qyhm.github.io.git</span></span><br><span class="line"> <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure></li>
 </ul>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Deployment</span></span><br><span class="line"><span class="comment">## Docs: https://hexo.io/docs/one-command-deployment</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line"> <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line"> <span class="attr">repository:</span> <span class="string">git@github.com:qyhm/qyhm.github.io.git</span></span><br><span class="line"> <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure>
 <p>详见：<a href="%5B%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88MarkDown%E6%96%87%E6%A1%A3%E4%B8%AD%E7%BD%91%E5%9D%80%E7%9A%84%E8%B6%85%E9%93%BE%E6%8E%A5%E5%B1%9E%E6%80%A7_markdown%E5%8F%96%E6%B6%88%E8%B6%85%E9%93%BE%E6%8E%A5_%E5%91%A8%E5%85%AC%E8%A7%A3%E7%A0%81%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2%5D(https://blog.csdn.net/u010250240/article/details/104517927)">分享</a></p>
-<h2 id="个人blog搭建"><a class="header-anchor" href="#个人blog搭建">¶</a>个人blog搭建</h2>
-<h3 id="优秀案例"><a class="header-anchor" href="#优秀案例">¶</a>优秀案例</h3>
-<p>详细过程：<a href="https://bambrow.com/20200715-hexo-blog-guide-1/">https://bambrow.com/20200715-hexo-blog-guide-1/</a></p>
+<h2 id="个人blog搭建"><a href="#个人blog搭建" class="headerlink" title="个人blog搭建"></a>个人blog搭建</h2><h3 id="优秀案例"><a href="#优秀案例" class="headerlink" title="优秀案例"></a>优秀案例</h3><p>详细过程：<a href="https://bambrow.com/20200715-hexo-blog-guide-1/">https://bambrow.com/20200715-hexo-blog-guide-1/</a></p>
 ]]></content>
       <categories>
         <category>Blog</category>
@@ -52,51 +45,41 @@
     <title>PDF预览实现</title>
     <url>/2018/05/30/Blog/pdf_overview_realize/</url>
     <content><![CDATA[<center>**Personal Bolg**</center>
-<h4 id="1-hexo指令实现"><a class="header-anchor" href="#1-hexo指令实现">¶</a>1. hexo指令实现</h4>
-<ul>
-<li>
-<p>安装<code>hexo-pdf</code>插件</p>
+
+<h4 id="1-hexo指令实现"><a href="#1-hexo指令实现" class="headerlink" title="1. hexo指令实现"></a>1. hexo指令实现</h4><ul>
+<li><p>安装<code>hexo-pdf</code>插件</p>
 </li>
-<li>
-<pre><code>$ npm install --save hexo-pdf
+<li><pre><code>$ npm install --save hexo-pdf
 </code></pre>
 </li>
-<li>
-<p>使用时需要在 <code>.md</code>中引入</p>
+<li><p>使用时需要在 <code>.md</code>中引入</p>
 </li>
-<li>
-<pre><code>&lt;br&gt;
+<li><pre><code>&lt;br&gt;
 &#123;% pdf /file(/source路径下文件夹)/a.pdf（pdf文件名称） %&#125; s
 &lt;br&gt;
 </code></pre>
 <p>实现效果如下</p>
 <br>
+
 <div class="pdfobject-container" data-target="/file/a.pdf" data-height="500px"></div> s
-<br>
-</li>
+
+<br></li>
 </ul>
-<h4 id="2-pdf-js实现"><a class="header-anchor" href="#2-pdf-js实现">¶</a>2. pdf.js实现</h4>
-<p>将pdf.js引入hexo，使用iframe实现pdf预览，带有pdf注释工具</p>
+<h4 id="2-pdf-js实现"><a href="#2-pdf-js实现" class="headerlink" title="2. pdf.js实现"></a>2. pdf.js实现</h4><p>将pdf.js引入hexo，使用iframe实现pdf预览，带有pdf注释工具</p>
 <ul>
-<li>
-<p>下载pdf.js，下载连接 <a href="https://github.com/mozilla/pdf.js">https://github.com/mozilla/pdf.js</a></p>
+<li><p>下载pdf.js，下载连接 <a href="https://github.com/mozilla/pdf.js">https://github.com/mozilla/pdf.js</a></p>
 </li>
-<li>
-<p>解压后，文件夹复制到根目录下<code>/source</code>文件夹中，同时创建<code>/file</code>存放pdf文件</p>
+<li><p>解压后，文件夹复制到根目录下<code>/source</code>文件夹中，同时创建<code>/file</code>存放pdf文件</p>
 </li>
-<li>
-<p>在<code>_config.yml</code>中render掉pdfjs</p>
+<li><p>在<code>_config.yml</code>中render掉pdfjs</p>
 </li>
-<li>
-<pre><code>skip_render:
-  - 'pdfjs/**/*'
+<li><pre><code>skip_render:
+  - &#39;pdfjs/**/*&#39;
 </code></pre>
 </li>
-<li>
-<p>使用时需要在 <code>.md</code>中引入</p>
+<li><p>使用时需要在 <code>.md</code>中引入</p>
 </li>
-<li>
-<pre><code>&lt;div&gt; 
+<li><pre><code>&lt;div&gt; 
 &lt;iframe src=&quot;/pdfjs/web/viewer.html?file=/file/b.pdf（文件路径同上）&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 &lt;div&gt; 
 </code></pre>
@@ -104,6 +87,7 @@
 </li>
 </ul>
 <iframe src="/pdfjs/web/viewer.html?file=/file/b.pdf" width="100%" height="500px" frameborder="0"></iframe>
+
 <p>参考案例：<a href="https://fengzhenhua-vip.github.io/2021/05/31/Hexo%E4%B8%AD%E5%B1%95%E7%A4%BAPDF%E6%96%87%E6%A1%A3/">Hexo中展示PDF文档 | 格物万象，究理天人 (fengzhenhua-vip.github.io)</a></p>
 ]]></content>
       <categories>
@@ -113,8 +97,7 @@
   <entry>
     <title>Mark down 语法</title>
     <url>/2023/04/14/Blog/mark%20down%20yufa/</url>
-    <content><![CDATA[<h2 id="Markdown-语法记录"><a class="header-anchor" href="#Markdown-语法记录">¶</a>Markdown 语法记录</h2>
-<p><a href="https://blog.csdn.net/weixin_45494811/article/details/104307670">直达连接</a></p>
+    <content><![CDATA[<h2 id="Markdown-语法记录"><a href="#Markdown-语法记录" class="headerlink" title="Markdown 语法记录"></a>Markdown 语法记录</h2><p><a href="https://blog.csdn.net/weixin_45494811/article/details/104307670">直达连接</a></p>
 ]]></content>
       <categories>
         <category>Blog</category>
@@ -123,8 +106,7 @@
   <entry>
     <title>网站建立纪念日</title>
     <url>/2023/04/14/Blog/Anniversary/</url>
-    <content><![CDATA[<h2 id="纪念日记录"><a class="header-anchor" href="#纪念日记录">¶</a>纪念日记录</h2>
-<p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
+    <content><![CDATA[<h2 id="纪念日记录"><a href="#纪念日记录" class="headerlink" title="纪念日记录"></a>纪念日记录</h2><p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
 ]]></content>
       <categories>
         <category>Blog</category>

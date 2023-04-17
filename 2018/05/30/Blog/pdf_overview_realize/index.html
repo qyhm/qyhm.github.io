@@ -239,51 +239,41 @@
 
       
         <center>**Personal Bolg**</center>
-<h4 id="1-hexo指令实现"><a class="header-anchor" href="#1-hexo指令实现">¶</a>1. hexo指令实现</h4>
-<ul>
-<li>
-<p>安装<code>hexo-pdf</code>插件</p>
+
+<h4 id="1-hexo指令实现"><a href="#1-hexo指令实现" class="headerlink" title="1. hexo指令实现"></a>1. hexo指令实现</h4><ul>
+<li><p>安装<code>hexo-pdf</code>插件</p>
 </li>
-<li>
-<pre><code>$ npm install --save hexo-pdf
+<li><pre><code>$ npm install --save hexo-pdf
 </code></pre>
 </li>
-<li>
-<p>使用时需要在 <code>.md</code>中引入</p>
+<li><p>使用时需要在 <code>.md</code>中引入</p>
 </li>
-<li>
-<pre><code>&lt;br&gt;
+<li><pre><code>&lt;br&gt;
 &#123;% pdf /file(/source路径下文件夹)/a.pdf（pdf文件名称） %&#125; s
 &lt;br&gt;
 </code></pre>
 <p>实现效果如下</p>
 <br>
+
 <div class="pdfobject-container" data-target="/file/a.pdf" data-height="500px"></div> s
-<br>
-</li>
+
+<br></li>
 </ul>
-<h4 id="2-pdf-js实现"><a class="header-anchor" href="#2-pdf-js实现">¶</a>2. pdf.js实现</h4>
-<p>将pdf.js引入hexo，使用iframe实现pdf预览，带有pdf注释工具</p>
+<h4 id="2-pdf-js实现"><a href="#2-pdf-js实现" class="headerlink" title="2. pdf.js实现"></a>2. pdf.js实现</h4><p>将pdf.js引入hexo，使用iframe实现pdf预览，带有pdf注释工具</p>
 <ul>
-<li>
-<p>下载pdf.js，下载连接 <a target="_blank" rel="noopener" href="https://github.com/mozilla/pdf.js">https://github.com/mozilla/pdf.js</a></p>
+<li><p>下载pdf.js，下载连接 <a target="_blank" rel="noopener" href="https://github.com/mozilla/pdf.js">https://github.com/mozilla/pdf.js</a></p>
 </li>
-<li>
-<p>解压后，文件夹复制到根目录下<code>/source</code>文件夹中，同时创建<code>/file</code>存放pdf文件</p>
+<li><p>解压后，文件夹复制到根目录下<code>/source</code>文件夹中，同时创建<code>/file</code>存放pdf文件</p>
 </li>
-<li>
-<p>在<code>_config.yml</code>中render掉pdfjs</p>
+<li><p>在<code>_config.yml</code>中render掉pdfjs</p>
 </li>
-<li>
-<pre><code>skip_render:
-  - 'pdfjs/**/*'
+<li><pre><code>skip_render:
+  - &#39;pdfjs/**/*&#39;
 </code></pre>
 </li>
-<li>
-<p>使用时需要在 <code>.md</code>中引入</p>
+<li><p>使用时需要在 <code>.md</code>中引入</p>
 </li>
-<li>
-<pre><code>&lt;div&gt; 
+<li><pre><code>&lt;div&gt; 
 &lt;iframe src=&quot;/pdfjs/web/viewer.html?file=/file/b.pdf（文件路径同上）&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 &lt;div&gt; 
 </code></pre>
@@ -291,6 +281,7 @@
 </li>
 </ul>
 <iframe src="/pdfjs/web/viewer.html?file=/file/b.pdf" width="100%" height="500px" frameborder="0"></iframe>
+
 <p>参考案例：<a target="_blank" rel="noopener" href="https://fengzhenhua-vip.github.io/2021/05/31/Hexo%E4%B8%AD%E5%B1%95%E7%A4%BAPDF%E6%96%87%E6%A1%A3/">Hexo中展示PDF文档 | 格物万象，究理天人 (fengzhenhua-vip.github.io)</a></p>
 
     </div>
