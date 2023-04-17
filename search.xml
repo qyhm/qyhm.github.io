@@ -2,21 +2,24 @@
 <search>
   <entry>
     <title>黄琴是猪</title>
-    <url>/2023/04/14/Hq/</url>
+    <url>/2023/04/14/Life/Hq/</url>
     <content><![CDATA[<p>There is a truth that Qin H. is hengheng.</p>
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>Life</category>
       </categories>
   </entry>
   <entry>
     <title>What i have, What i can do, What i need to do</title>
-    <url>/2023/04/17/point/</url>
+    <url>/2023/04/17/Life/Main%20page/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
   </entry>
   <entry>
     <title>hexo nest 网页优化 常见问题汇总</title>
-    <url>/2023/04/14/hexo-nest-web-ERROR&amp;related/</url>
+    <url>/2023/04/14/Blog/hexo-nest-web-ERROR&amp;related/</url>
     <content><![CDATA[<h2 id="问题解决"><a class="header-anchor" href="#问题解决">¶</a>问题解决</h2>
 <h3 id="1-解决Hexo部署时报错：Error-Spawn-failed"><a class="header-anchor" href="#1-解决Hexo部署时报错：Error-Spawn-failed">¶</a>1. 解决Hexo部署时报错：Error: Spawn failed</h3>
 <h4 id="有效解决方法：修改配置"><a class="header-anchor" href="#有效解决方法：修改配置">¶</a>有效解决方法：修改配置</h4>
@@ -32,11 +35,22 @@
 <h3 id="优秀案例"><a class="header-anchor" href="#优秀案例">¶</a>优秀案例</h3>
 <p>详细过程：<a href="https://bambrow.com/20200715-hexo-blog-guide-1/">https://bambrow.com/20200715-hexo-blog-guide-1/</a></p>
 ]]></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>GUIDE-seq enables genome-wideprofiling of offtarget cleavage by CRISPR-Cas nucleases</title>
+    <url>/2023/04/17/Reading/Off%20target%20detection/GUIDE-seq%20enables%20genome-wideprofiling%20of%20offtarget%20cleavage%20by%20CRISPR-Cas%20nucleases/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Reading</category>
+      </categories>
   </entry>
   <entry>
     <title>PDF预览实现</title>
-    <url>/2018/05/30/pdf_upload/</url>
-    <content><![CDATA[<center>**端对端记忆网络**</center>
+    <url>/2018/05/30/Blog/pdf_overview_realize/</url>
+    <content><![CDATA[<center>**Personal Bolg**</center>
 <h4 id="1-hexo指令实现"><a class="header-anchor" href="#1-hexo指令实现">¶</a>1. hexo指令实现</h4>
 <ul>
 <li>
@@ -92,43 +106,27 @@
 <p>参考案例：<a href="https://fengzhenhua-vip.github.io/2021/05/31/Hexo%E4%B8%AD%E5%B1%95%E7%A4%BAPDF%E6%96%87%E6%A1%A3/">Hexo中展示PDF文档 | 格物万象，究理天人 (fengzhenhua-vip.github.io)</a></p>
 ]]></content>
       <categories>
-        <category>论文笔记</category>
+        <category>Blog</category>
       </categories>
-      <tags>
-        <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/04/14/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start">¶</a>Quick Start</h2>
-<h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a class="header-anchor" href="#Run-server">¶</a>Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a class="header-anchor" href="#Generate-static-files">¶</a>Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a class="header-anchor" href="#Deploy-to-remote-sites">¶</a>Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>Mark down 语法</title>
-    <url>/2023/04/14/mark%20down%20yufa/</url>
+    <url>/2023/04/14/Blog/mark%20down%20yufa/</url>
     <content><![CDATA[<h2 id="Markdown-语法记录"><a class="header-anchor" href="#Markdown-语法记录">¶</a>Markdown 语法记录</h2>
 <p><a href="https://blog.csdn.net/weixin_45494811/article/details/104307670">直达连接</a></p>
 ]]></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
   </entry>
   <entry>
     <title>网站建立纪念日</title>
-    <url>/2023/04/14/mode/</url>
+    <url>/2023/04/14/Blog/Anniversary/</url>
     <content><![CDATA[<h2 id="纪念日记录"><a class="header-anchor" href="#纪念日记录">¶</a>纪念日记录</h2>
 <p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
 ]]></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
   </entry>
 </search>
