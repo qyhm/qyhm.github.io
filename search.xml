@@ -18,6 +18,25 @@
       </categories>
   </entry>
   <entry>
+    <title>一个关于你的故事</title>
+    <url>/2023/04/18/Life/a%20story%20to%20you/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong password" data-whm="This article cannot be verified">
+  <script id="hbeData" type="hbeData" data-hmacdigest="affa94df13dd856c2210e3db8c86464fb11c15037e7352eb8b60b02910c346a2">6276b3d4f8d7bef56eedf56701ad2153e8d0b0bc147919a9a9a24f5066c19c1d</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-flip">
+      <input class="hbe hbe-input-field hbe-input-field-flip" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-flip" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-flip" data-content="Her birthday">Her birthday</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+  </entry>
+  <entry>
     <title>GUIDE-seq enables genome-wideprofiling of offtarget cleavage by CRISPR-Cas nucleases</title>
     <url>/2023/04/17/Reading/Offtargetdetection/GUIDE/</url>
     <content><![CDATA[<p><img src="/../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
