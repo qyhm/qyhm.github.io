@@ -39,8 +39,28 @@
   <entry>
     <title>GUIDE-seq enables genome-wideprofiling of offtarget cleavage by CRISPR-Cas nucleases</title>
     <url>/2023/04/17/Reading/Offtargetdetection/GUIDE/</url>
-    <content><![CDATA[<p><img src="/../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
-]]></content>
+    <content><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p><strong>文章名字:</strong> GUIDE-seq enables genome-wide profiling of off-target cleavage by CRISPR-Cas nucleases<br><strong>简介:</strong> 2015 年发表 于nature biotechnology, IF&#x3D;54.9.作者来自马赛诸纳州,马赛诸纳州中心医院,分子病理学中心.通讯作者为J Keith Joung,来自哈弗医学院,主要从事活细胞中基因组及表观遗传重编程策略的开发,从而更好的理解生物学和疾病治疗.<img src="/../../../images/GUIDE/joung_jae_1-1681823131667-2.jpg" alt="Jae Keith Joung"></p>
+<h3 id="研究内容"><a href="#研究内容" class="headerlink" title="研究内容"></a>研究内容</h3><p>​		使用dsODN在RGNs进行切割时随机的NHEJ修复,通过dsODN tag特异序列进行PCR富集含有tag序列的位点,高通量测序后判断插入位点,检测脱靶发生.<br><img src="/../../../images/GUIDE/1681823596077.jpg" alt="1681823596077"></p>
+<center>图1. GUIDE-seq策略</center>
+
+<h3 id="研究结果"><a href="#研究结果" class="headerlink" title="研究结果"></a>研究结果</h3><h4 id="1-GUIDE-seq方法总览"><a href="#1-GUIDE-seq方法总览" class="headerlink" title="1. GUIDE-seq方法总览"></a>1. GUIDE-seq方法总览</h4><p>​		直接使用合成的dsODN效率较低,故对其进行了优化:1. 使用了5’和3’都进行磷酸化修饰的dsODN,显著提高了修复的效率;2. 开发了基于tag 序列的测序方法(图1),能够有效富集整合序列.</p>
+<h4 id="2-GUIDE-seq全基因组范围脱靶切割的profile"><a href="#2-GUIDE-seq全基因组范围脱靶切割的profile" class="headerlink" title="2. GUIDE-seq全基因组范围脱靶切割的profile"></a>2. GUIDE-seq全基因组范围脱靶切割的profile</h4><p>使用人的U2OS和HEK293细胞进行了验证,该部分对G-seq检测结果的基本特征进行了检测(on和off位点).</p>
+<ol>
+<li><p>对各tag在靶点的整合位点进行了map.表示为在20bp靶序列上碱基处的reads数,以上下游的正反向引物的总的reads数表示.</p>
+</li>
+<li><p>各位点处均发现了与之高度相关的靶点(on 或是 off), off-target的数量呈现极大差异,和靶点无关, 和mismatch的碱基数无关, 和GC含量无关, 和分布特征无关</p>
+</li>
+<li><p>G-seq检测到的off-target处的reads和RGNs造成的不同位点的脱靶频率正相关(使用的方法检测方法为AMP测序, 测序原理如图2), 提供了一种评估剪切效率的定量方法. 同时, G-seq带有的特异性tag有效的减少了一些低频脱靶位点所需的测序深度, 表现为RGNs中未检测到的脱靶位点的检出.</p>
+<p><img src="/../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
+</li>
+</ol>
+<center>图2 AMP测序示意图</center>
+
+<h4 id="3-脱靶序列特征分析"><a href="#3-脱靶序列特征分析" class="headerlink" title="3. 脱靶序列特征分析"></a>3. 脱靶序列特征分析</h4><ol>
+<li>对G-seq切割序列特征进行了分析: 脱靶位点的类型: 错配(高达6个碱基), 非经典PAM, 1 pb bulge-结构错配. 错配位点常发生在5’端,但在3’端(接近种子区域)也有发生, 还有off-target reads数比on-target reads数还多的情况.</li>
+<li>发现:1. 随着错配碱基数增加, 脱靶位点总数减少,各脱靶位点的reads数减少, 即脱靶切割减少; 2. 影响脱靶位点数量的主要因素是错配的数量, 位点和类型.</li>
+</ol>
+<h4 id="4-和in-silico-预测结果比较"><a href="#4-和in-silico-预测结果比较" class="headerlink" title="4. 和in silico 预测结果比较"></a>4. 和in silico 预测结果比较</h4>]]></content>
       <categories>
         <category>Reading</category>
       </categories>
