@@ -60,7 +60,19 @@
 <li>对G-seq切割序列特征进行了分析: 脱靶位点的类型: 错配(高达6个碱基), 非经典PAM, 1 pb bulge-结构错配. 错配位点常发生在5’端,但在3’端(接近种子区域)也有发生, 还有off-target reads数比on-target reads数还多的情况.</li>
 <li>发现:1. 随着错配碱基数增加, 脱靶位点总数减少,各脱靶位点的reads数减少, 即脱靶切割减少; 2. 影响脱靶位点数量的主要因素是错配的数量, 位点和类型.</li>
 </ol>
-<h4 id="4-和in-silico-预测结果比较"><a href="#4-和in-silico-预测结果比较" class="headerlink" title="4. 和in silico 预测结果比较"></a>4. 和in silico 预测结果比较</h4>]]></content>
+<h4 id="4-和in-silico-预测结果比较"><a href="#4-和in-silico-预测结果比较" class="headerlink" title="4. 和in silico 预测结果比较"></a>4. 和in silico 预测结果比较</h4><ol>
+<li>在检测高mismatch(4-6bp)更具优势, 计算机程序常不考虑这些高错配的脱靶位点</li>
+<li>计算机预测的脱靶不够全面, 显著少于G-seq预测结果</li>
+<li>计算机预测有时会忽略一些低碱基(1bp)错配的脱靶</li>
+</ol>
+<h4 id="5-于ChIP-seq检测的binding位点比较"><a href="#5-于ChIP-seq检测的binding位点比较" class="headerlink" title="5. 于ChIP-seq检测的binding位点比较"></a>5. 于ChIP-seq检测的binding位点比较</h4><p>两者检测结果重叠率极低</p>
+<h4 id="6-不依赖RGN的双链断裂的识别"><a href="#6-不依赖RGN的双链断裂的识别" class="headerlink" title="6. 不依赖RGN的双链断裂的识别"></a>6. 不依赖RGN的双链断裂的识别</h4><p>只转染dsODN中,出现一些tag序列的插入. 这些位点分散在基因组中,主要集中于着丝粒和端粒, 并且可能具有细胞特异性.</p>
+<h4 id="7-大片段基因组重排"><a href="#7-大片段基因组重排" class="headerlink" title="7. 大片段基因组重排"></a>7. 大片段基因组重排</h4><p>AMP测序方法的应用使得染色体易位的检测成为可能. 但是,显示结果为基因组序列的直接连接, 未见tag序列. 猜测通过G-seq进行检测后,比对到基因组上, 再根据比对结果设计AMP引物进行检测,此步脱离tag-sequence.</p>
+<h4 id="8-截短sgRNA的影响"><a href="#8-截短sgRNA的影响" class="headerlink" title="8. 截短sgRNA的影响"></a>8. 截短sgRNA的影响</h4><p>证明使用截短的sgRNA显著减少了脱靶位点. </p>
+<h3 id="实验和表征方法"><a href="#实验和表征方法" class="headerlink" title="实验和表征方法"></a>实验和表征方法</h3><ol>
+<li>AMP 测序; STAT-PCR:single tail adapter&#x2F;tag</li>
+</ol>
+]]></content>
       <categories>
         <category>Reading</category>
       </categories>
