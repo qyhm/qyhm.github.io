@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>黄琴是猪</title>
+    <url>/2023/04/14/Life/Hq/</url>
+    <content><![CDATA[<p>There is a truth that Qin H. is hengheng.</p>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+  </entry>
+  <entry>
     <title>What i have, What i can do, What i need to do</title>
     <url>/2023/04/17/Life/Main%20page/</url>
     <content><![CDATA[]]></content>
@@ -28,21 +37,62 @@
       </categories>
   </entry>
   <entry>
-    <title>黄琴是猪</title>
-    <url>/2023/04/14/Life/Hq/</url>
-    <content><![CDATA[<p>There is a truth that Qin H. is hengheng.</p>
+    <title>The polymeric immunoglobulin receptor-like protein from Marsupenaeus japonicus is a receptor for white spot syndrome virus infection</title>
+    <url>/2023/04/23/Reading/WSSV/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/</url>
+    <content><![CDATA[<h3 id="作者简介"><a href="#作者简介" class="headerlink" title="作者简介"></a>作者简介</h3><p>本文2019年发表在Plos pathogens, 通讯作者为王金星, 就职于山东省动物细胞与发育生物学重点实验室, 研究方向为无脊椎动物先天免疫, 主要研究对象为对虾.<img src="/../../../images/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/image-20230423165659510-1682240438123-1.png" alt="image-20230423165659510-1682240438123-1"></p>
+<h3 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h3><p>受体结合的病毒可以通过直接释放基因组DNA到细胞或者通过胞吞(endocytosis)途径进入细胞后进行基因的表达,尤其对于DNA病毒和部分RNA病毒. 受体在病毒的感染中起了关键作用. 白斑综合征病毒(WSSV)的真正受体一直未确定. 本文鉴定了斑节对虾(<em>Marsupenaeus japonicus</em>)中的WSSV受体, 一种多聚免疫球蛋白受体样蛋白(MjplgR).1. MjpIgR在所有组织表达；2. WSSV感染引起其mRNA和蛋白表达水平增加；3. 敲降MjpIgR或使用其抗体封闭，导致WSSV感染效率降低，过表达MjpIgR使WSSV感染效率增加；4. MjpIgR能够独立的使非易感细胞变得对WSSV易感。MjpIgR胞外结构域结合WSSV的VP24胞膜蛋白，胞内结构域则结合钙调蛋白（calmodulin）。WSSV进入细胞依赖pIgR-Cam-Clathrin通路。</p>
+<h3 id="实验结果"><a href="#实验结果" class="headerlink" title="实验结果"></a>实验结果</h3><h4 id="MjpIgR在WSSV攻毒后表达上调"><a href="#MjpIgR在WSSV攻毒后表达上调" class="headerlink" title="MjpIgR在WSSV攻毒后表达上调"></a>MjpIgR在WSSV攻毒后表达上调</h4><p>分离鉴定了MjpIgR，GenBank Accession no. MH051890。在各组织均有表达，在WSSV攻毒后上调。表明MjpIgR和WSSV感染相关。<br><img src="../../../images/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/image-20230425105810257.png" alt="image-20230425105810257" style="zoom:50%;" /></p>
+<h4 id="MjpIgR过表达能增加WSSV感染"><a href="#MjpIgR过表达能增加WSSV感染" class="headerlink" title="MjpIgR过表达能增加WSSV感染"></a>MjpIgR过表达能增加WSSV感染</h4><p>敲降&#x2F;过表达后对WSSV蛋白, DNA量, 颗粒数及存活时间统计.</p>
+<h4 id="MjpIgR能在体内外形成多聚体形式-能在WSSV感染后进入细胞质-向细胞质转移"><a href="#MjpIgR能在体内外形成多聚体形式-能在WSSV感染后进入细胞质-向细胞质转移" class="headerlink" title="MjpIgR能在体内外形成多聚体形式,能在WSSV感染后进入细胞质(向细胞质转移)"></a>MjpIgR能在体内外形成多聚体形式,能在WSSV感染后进入细胞质(向细胞质转移)</h4><p>除了细胞定位变化,还检测了膜蛋白和胞质蛋白中含量的变化.</p>
+<h4 id="MjpIgR和WSSV在血细胞中的共定位"><a href="#MjpIgR和WSSV在血细胞中的共定位" class="headerlink" title="MjpIgR和WSSV在血细胞中的共定位"></a>MjpIgR和WSSV在血细胞中的共定位</h4><p>使用Dil标记了WSSV(有膜结构?), 使用免疫组化染色MjpIgR. 使用流式对相对数量进行了统计.</p>
+<h4 id="MjpIgR过表达使非敏感细胞-HEK-293T-变得易感"><a href="#MjpIgR过表达使非敏感细胞-HEK-293T-变得易感" class="headerlink" title="MjpIgR过表达使非敏感细胞(HEK 293T)变得易感"></a>MjpIgR过表达使非敏感细胞(HEK 293T)变得易感</h4><p>过表达后检测了细胞中WSSV基因组水平. 但是, 这部分基因组可能仅是表面结合, 而WSSV病毒颗粒并未进行内吞,对应的缺少细胞内免疫组化.</p>
+<h4 id="MjpIgR-SC结合VP24区域"><a href="#MjpIgR-SC结合VP24区域" class="headerlink" title="MjpIgR-SC结合VP24区域"></a>MjpIgR-SC结合VP24区域</h4><p>使用GST-His pull-down能和MjpIgR(SC区)结合的区域为<u>VP24</u>蛋白, <u>三个IG区域均负责结合</u>.</p>
+<h4 id="MjpIgR-钙粘蛋白-网格蛋白-AP2通路介导了WSSV内吞"><a href="#MjpIgR-钙粘蛋白-网格蛋白-AP2通路介导了WSSV内吞" class="headerlink" title="MjpIgR-钙粘蛋白-网格蛋白-AP2通路介导了WSSV内吞"></a>MjpIgR-钙粘蛋白-网格蛋白-AP2通路介导了WSSV内吞</h4><p>MjCam表达, 对WSSV响应变化, MjCam敲降对存活率的影响. 表达了MjpIgR包内结构,通过pulldown研究其和MjCam的相互作用, 使用MjCam的拮抗剂处理, 发现WSSV含量降低.</p>
+<p>网格蛋白(Mjclathrin)抑制剂CPZ(chlorpromazine).CPZ以及Mjclathrin敲降在抗WSSV中的作用. <u>过表达MjpIgR同时注射CPZ(通路验证常见思路)</u>发现MjpIgR过表达的效果被抑制.</p>
 ]]></content>
       <categories>
-        <category>Life</category>
+        <category>Reading</category>
       </categories>
   </entry>
   <entry>
-    <title>网站建立纪念日</title>
-    <url>/2023/04/14/Blog/Anniversary/</url>
-    <content><![CDATA[<h2 id="纪念日记录"><a href="#纪念日记录" class="headerlink" title="纪念日记录"></a>纪念日记录</h2><p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
+    <title>GUIDE-seq enables genome-wideprofiling of offtarget cleavage by CRISPR-Cas nucleases</title>
+    <url>/2023/04/17/Reading/Offtargetdetection/GUIDE/</url>
+    <content><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p><strong>文章名字:</strong> GUIDE-seq enables genome-wide profiling of off-target cleavage by CRISPR-Cas nucleases<br><strong>简介:</strong> 2015 年发表 于nature biotechnology, IF&#x3D;54.9.作者来自马赛诸纳州,马赛诸纳州中心医院,分子病理学中心.通讯作者为J Keith Joung,来自哈弗医学院,主要从事活细胞中基因组及表观遗传重编程策略的开发,从而更好的理解生物学和疾病治疗.<img src="/../../../images/GUIDE/joung_jae_1-1681823131667-2.jpg" alt="Jae Keith Joung"></p>
+<h3 id="研究内容"><a href="#研究内容" class="headerlink" title="研究内容"></a>研究内容</h3><p>​		使用dsODN在RGNs进行切割时随机的NHEJ修复,通过dsODN tag特异序列进行PCR富集含有tag序列的位点,高通量测序后判断插入位点,检测脱靶发生.<br><img src="/../../../images/GUIDE/1681823596077.jpg" alt="1681823596077"></p>
+<center>图1. GUIDE-seq策略</center>
+
+<h3 id="研究结果"><a href="#研究结果" class="headerlink" title="研究结果"></a>研究结果</h3><h4 id="1-GUIDE-seq方法总览"><a href="#1-GUIDE-seq方法总览" class="headerlink" title="1. GUIDE-seq方法总览"></a>1. GUIDE-seq方法总览</h4><p>​		直接使用合成的dsODN效率较低,故对其进行了优化:1. 使用了5’和3’都进行磷酸化修饰的dsODN,显著提高了修复的效率;2. 开发了基于tag 序列的测序方法(图1),能够有效富集整合序列.</p>
+<h4 id="2-GUIDE-seq全基因组范围脱靶切割的profile"><a href="#2-GUIDE-seq全基因组范围脱靶切割的profile" class="headerlink" title="2. GUIDE-seq全基因组范围脱靶切割的profile"></a>2. GUIDE-seq全基因组范围脱靶切割的profile</h4><p>使用人的U2OS和HEK293细胞进行了验证,该部分对G-seq检测结果的基本特征进行了检测(on和off位点).</p>
+<ol>
+<li><p>对各tag在靶点的整合位点进行了map.表示为在20bp靶序列上碱基处的reads数,以上下游的正反向引物的总的reads数表示.</p>
+</li>
+<li><p>各位点处均发现了与之高度相关的靶点(on 或是 off), off-target的数量呈现极大差异,和靶点无关, 和mismatch的碱基数无关, 和GC含量无关, 和分布特征无关</p>
+</li>
+<li><p>G-seq检测到的off-target处的reads和RGNs造成的不同位点的脱靶频率正相关(使用的方法检测方法为AMP测序, 测序原理如图2), 提供了一种评估剪切效率的定量方法. 同时, G-seq带有的特异性tag有效的减少了一些低频脱靶位点所需的测序深度, 表现为RGNs中未检测到的脱靶位点的检出.</p>
+<p><img src="/../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
+</li>
+</ol>
+<center>图2 AMP测序示意图</center>
+
+<h4 id="3-脱靶序列特征分析"><a href="#3-脱靶序列特征分析" class="headerlink" title="3. 脱靶序列特征分析"></a>3. 脱靶序列特征分析</h4><ol>
+<li>对G-seq切割序列特征进行了分析: 脱靶位点的类型: 错配(高达6个碱基), 非经典PAM, 1 pb bulge-结构错配. 错配位点常发生在5’端,但在3’端(接近种子区域)也有发生, 还有off-target reads数比on-target reads数还多的情况.</li>
+<li>发现:1. 随着错配碱基数增加, 脱靶位点总数减少,各脱靶位点的reads数减少, 即脱靶切割减少; 2. 影响脱靶位点数量的主要因素是错配的数量, 位点和类型.</li>
+</ol>
+<h4 id="4-和in-silico-预测结果比较"><a href="#4-和in-silico-预测结果比较" class="headerlink" title="4. 和in silico 预测结果比较"></a>4. 和in silico 预测结果比较</h4><ol>
+<li>在检测高mismatch(4-6bp)更具优势, 计算机程序常不考虑这些高错配的脱靶位点</li>
+<li>计算机预测的脱靶不够全面, 显著少于G-seq预测结果</li>
+<li>计算机预测有时会忽略一些低碱基(1bp)错配的脱靶</li>
+</ol>
+<h4 id="5-于ChIP-seq检测的binding位点比较"><a href="#5-于ChIP-seq检测的binding位点比较" class="headerlink" title="5. 于ChIP-seq检测的binding位点比较"></a>5. 于ChIP-seq检测的binding位点比较</h4><p>两者检测结果重叠率极低</p>
+<h4 id="6-不依赖RGN的双链断裂的识别"><a href="#6-不依赖RGN的双链断裂的识别" class="headerlink" title="6. 不依赖RGN的双链断裂的识别"></a>6. 不依赖RGN的双链断裂的识别</h4><p>只转染dsODN中,出现一些tag序列的插入. 这些位点分散在基因组中,主要集中于着丝粒和端粒, 并且可能具有细胞特异性.</p>
+<h4 id="7-大片段基因组重排"><a href="#7-大片段基因组重排" class="headerlink" title="7. 大片段基因组重排"></a>7. 大片段基因组重排</h4><p>AMP测序方法的应用使得染色体易位的检测成为可能. 但是,显示结果为基因组序列的直接连接, 未见tag序列. 猜测通过G-seq进行检测后,比对到基因组上, 再根据比对结果设计AMP引物进行检测,此步脱离tag-sequence.</p>
+<h4 id="8-截短sgRNA的影响"><a href="#8-截短sgRNA的影响" class="headerlink" title="8. 截短sgRNA的影响"></a>8. 截短sgRNA的影响</h4><p>证明使用截短的sgRNA显著减少了脱靶位点. </p>
+<h3 id="实验和表征方法"><a href="#实验和表征方法" class="headerlink" title="实验和表征方法"></a>实验和表征方法</h3><ol>
+<li>AMP 测序; STAT-PCR:single tail adapter&#x2F;tag</li>
+</ol>
 ]]></content>
       <categories>
-        <category>Blog</category>
+        <category>Reading</category>
       </categories>
   </entry>
   <entry>
@@ -55,15 +105,6 @@
 </ul>
 <p>详见：<a href="%5B%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88MarkDown%E6%96%87%E6%A1%A3%E4%B8%AD%E7%BD%91%E5%9D%80%E7%9A%84%E8%B6%85%E9%93%BE%E6%8E%A5%E5%B1%9E%E6%80%A7_markdown%E5%8F%96%E6%B6%88%E8%B6%85%E9%93%BE%E6%8E%A5_%E5%91%A8%E5%85%AC%E8%A7%A3%E7%A0%81%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2%5D(https://blog.csdn.net/u010250240/article/details/104517927)">分享</a></p>
 <h2 id="个人blog搭建"><a href="#个人blog搭建" class="headerlink" title="个人blog搭建"></a>个人blog搭建</h2><h3 id="优秀案例"><a href="#优秀案例" class="headerlink" title="优秀案例"></a>优秀案例</h3><p>详细过程：<span class="exturl" data-url="aHR0cHM6Ly9iYW1icm93LmNvbS8yMDIwMDcxNS1oZXhvLWJsb2ctZ3VpZGUtMS8=">https://bambrow.com/20200715-hexo-blog-guide-1/<i class="fa fa-external-link-alt"></i></span></p>
-]]></content>
-      <categories>
-        <category>Blog</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Mark down 语法</title>
-    <url>/2023/04/14/Blog/mark%20down%20yufa/</url>
-    <content><![CDATA[<h2 id="Markdown-语法记录"><a href="#Markdown-语法记录" class="headerlink" title="Markdown 语法记录"></a>Markdown 语法记录</h2><p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTQ5NDgxMS9hcnRpY2xlL2RldGFpbHMvMTA0MzA3Njcw">直达连接<i class="fa fa-external-link-alt"></i></span></p>
 ]]></content>
       <categories>
         <category>Blog</category>
@@ -123,44 +164,21 @@
       </categories>
   </entry>
   <entry>
-    <title>GUIDE-seq enables genome-wideprofiling of offtarget cleavage by CRISPR-Cas nucleases</title>
-    <url>/2023/04/17/Reading/Offtargetdetection/GUIDE/</url>
-    <content><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p><strong>文章名字:</strong> GUIDE-seq enables genome-wide profiling of off-target cleavage by CRISPR-Cas nucleases<br><strong>简介:</strong> 2015 年发表 于nature biotechnology, IF&#x3D;54.9.作者来自马赛诸纳州,马赛诸纳州中心医院,分子病理学中心.通讯作者为J Keith Joung,来自哈弗医学院,主要从事活细胞中基因组及表观遗传重编程策略的开发,从而更好的理解生物学和疾病治疗.<img src="/../../../images/GUIDE/joung_jae_1-1681823131667-2.jpg" alt="Jae Keith Joung"></p>
-<h3 id="研究内容"><a href="#研究内容" class="headerlink" title="研究内容"></a>研究内容</h3><p>​		使用dsODN在RGNs进行切割时随机的NHEJ修复,通过dsODN tag特异序列进行PCR富集含有tag序列的位点,高通量测序后判断插入位点,检测脱靶发生.<br><img src="/../../../images/GUIDE/1681823596077.jpg" alt="1681823596077"></p>
-<center>图1. GUIDE-seq策略</center>
-
-<h3 id="研究结果"><a href="#研究结果" class="headerlink" title="研究结果"></a>研究结果</h3><h4 id="1-GUIDE-seq方法总览"><a href="#1-GUIDE-seq方法总览" class="headerlink" title="1. GUIDE-seq方法总览"></a>1. GUIDE-seq方法总览</h4><p>​		直接使用合成的dsODN效率较低,故对其进行了优化:1. 使用了5’和3’都进行磷酸化修饰的dsODN,显著提高了修复的效率;2. 开发了基于tag 序列的测序方法(图1),能够有效富集整合序列.</p>
-<h4 id="2-GUIDE-seq全基因组范围脱靶切割的profile"><a href="#2-GUIDE-seq全基因组范围脱靶切割的profile" class="headerlink" title="2. GUIDE-seq全基因组范围脱靶切割的profile"></a>2. GUIDE-seq全基因组范围脱靶切割的profile</h4><p>使用人的U2OS和HEK293细胞进行了验证,该部分对G-seq检测结果的基本特征进行了检测(on和off位点).</p>
-<ol>
-<li><p>对各tag在靶点的整合位点进行了map.表示为在20bp靶序列上碱基处的reads数,以上下游的正反向引物的总的reads数表示.</p>
-</li>
-<li><p>各位点处均发现了与之高度相关的靶点(on 或是 off), off-target的数量呈现极大差异,和靶点无关, 和mismatch的碱基数无关, 和GC含量无关, 和分布特征无关</p>
-</li>
-<li><p>G-seq检测到的off-target处的reads和RGNs造成的不同位点的脱靶频率正相关(使用的方法检测方法为AMP测序, 测序原理如图2), 提供了一种评估剪切效率的定量方法. 同时, G-seq带有的特异性tag有效的减少了一些低频脱靶位点所需的测序深度, 表现为RGNs中未检测到的脱靶位点的检出.</p>
-<p><img src="/../../../images/GUIDE/APMshiyitu.png" alt="APMshiyitu"></p>
-</li>
-</ol>
-<center>图2 AMP测序示意图</center>
-
-<h4 id="3-脱靶序列特征分析"><a href="#3-脱靶序列特征分析" class="headerlink" title="3. 脱靶序列特征分析"></a>3. 脱靶序列特征分析</h4><ol>
-<li>对G-seq切割序列特征进行了分析: 脱靶位点的类型: 错配(高达6个碱基), 非经典PAM, 1 pb bulge-结构错配. 错配位点常发生在5’端,但在3’端(接近种子区域)也有发生, 还有off-target reads数比on-target reads数还多的情况.</li>
-<li>发现:1. 随着错配碱基数增加, 脱靶位点总数减少,各脱靶位点的reads数减少, 即脱靶切割减少; 2. 影响脱靶位点数量的主要因素是错配的数量, 位点和类型.</li>
-</ol>
-<h4 id="4-和in-silico-预测结果比较"><a href="#4-和in-silico-预测结果比较" class="headerlink" title="4. 和in silico 预测结果比较"></a>4. 和in silico 预测结果比较</h4><ol>
-<li>在检测高mismatch(4-6bp)更具优势, 计算机程序常不考虑这些高错配的脱靶位点</li>
-<li>计算机预测的脱靶不够全面, 显著少于G-seq预测结果</li>
-<li>计算机预测有时会忽略一些低碱基(1bp)错配的脱靶</li>
-</ol>
-<h4 id="5-于ChIP-seq检测的binding位点比较"><a href="#5-于ChIP-seq检测的binding位点比较" class="headerlink" title="5. 于ChIP-seq检测的binding位点比较"></a>5. 于ChIP-seq检测的binding位点比较</h4><p>两者检测结果重叠率极低</p>
-<h4 id="6-不依赖RGN的双链断裂的识别"><a href="#6-不依赖RGN的双链断裂的识别" class="headerlink" title="6. 不依赖RGN的双链断裂的识别"></a>6. 不依赖RGN的双链断裂的识别</h4><p>只转染dsODN中,出现一些tag序列的插入. 这些位点分散在基因组中,主要集中于着丝粒和端粒, 并且可能具有细胞特异性.</p>
-<h4 id="7-大片段基因组重排"><a href="#7-大片段基因组重排" class="headerlink" title="7. 大片段基因组重排"></a>7. 大片段基因组重排</h4><p>AMP测序方法的应用使得染色体易位的检测成为可能. 但是,显示结果为基因组序列的直接连接, 未见tag序列. 猜测通过G-seq进行检测后,比对到基因组上, 再根据比对结果设计AMP引物进行检测,此步脱离tag-sequence.</p>
-<h4 id="8-截短sgRNA的影响"><a href="#8-截短sgRNA的影响" class="headerlink" title="8. 截短sgRNA的影响"></a>8. 截短sgRNA的影响</h4><p>证明使用截短的sgRNA显著减少了脱靶位点. </p>
-<h3 id="实验和表征方法"><a href="#实验和表征方法" class="headerlink" title="实验和表征方法"></a>实验和表征方法</h3><ol>
-<li>AMP 测序; STAT-PCR:single tail adapter&#x2F;tag</li>
-</ol>
+    <title>Mark down 语法</title>
+    <url>/2023/04/14/Blog/mark%20down%20yufa/</url>
+    <content><![CDATA[<h2 id="Markdown-语法记录"><a href="#Markdown-语法记录" class="headerlink" title="Markdown 语法记录"></a>Markdown 语法记录</h2><p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTQ5NDgxMS9hcnRpY2xlL2RldGFpbHMvMTA0MzA3Njcw">直达连接<i class="fa fa-external-link-alt"></i></span></p>
 ]]></content>
       <categories>
-        <category>Reading</category>
+        <category>Blog</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>网站建立纪念日</title>
+    <url>/2023/04/14/Blog/Anniversary/</url>
+    <content><![CDATA[<h2 id="纪念日记录"><a href="#纪念日记录" class="headerlink" title="纪念日记录"></a>纪念日记录</h2><p>闰二月廿四 癸卯年 兔 丙辰月 壬寅日</p>
+]]></content>
+      <categories>
+        <category>Blog</category>
       </categories>
   </entry>
 </search>
