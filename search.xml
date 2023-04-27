@@ -37,11 +37,43 @@
       </categories>
   </entry>
   <entry>
+    <title>Penaeidins restrict white spot syndrome virus infection by antagonizing the envelope proteins to block viral entry</title>
+    <url>/2023/04/25/Reading/WSSV/2020-penaeidins(PEN)-block-envelope/</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本文2020年发表在Emerging Microbes &amp; Infections，通讯作者为南方海洋科学与工程广东省实验室（珠海）&#x2F;中山大学的李朝政与何建国教授。主要以对虾为材料，开展对虾基础免疫学及遗传育种相关研究。具体研究工作为对虾免疫系统的解析；对虾免疫系统与病原（细菌及病毒）之间的相互作用机制研究；对虾经济性状的分子标记开发、遗传育种模型建立、新品种及新品系的选育。在对虾基础免疫学研究方面，课题组在解析对虾Toll和IMD信号通路、对虾核酸诱导免疫激活通路（STING&#x2F;IRF&#x2F;Vago&#x2F;JAK-STAT）调控机制方面以及对虾免疫系统与细菌和白斑综合症病毒互作机制方面取得了一些重要的研究进展</p>
+<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><p>对虾素（penaeidins）是一种对虾产生的多肽，能够抑制病毒感染。本文发现，penaeidins能够中和包膜蛋白从而抑制WSSV病毒感染。BigPEN，PEN2，PEN3和PEN4的表达随WSSV感染而上调，并与WSSV致病性相关。除PEN4，其它三者均能与WSSV包膜蛋白相互作用。四种PEN定位于WSSV病毒颗粒表面，孵育WSSV后减弱WSSV的内化。值得注意的是，<u>PEN2能够结合包膜蛋白VP24而解除其与pIgR的结合</u>，BigPEN能够结合VP28而解除Rab7依赖的内化。</p>
+<h3 id="实验结果"><a href="#实验结果" class="headerlink" title="实验结果"></a>实验结果</h3><h4 id="1-表达"><a href="#1-表达" class="headerlink" title="1. 表达"></a>1. 表达</h4><p>分离: transcriptome+RACE+phylogenetic tree （BigPEM，PEN2，PEN3，PEN4）</p>
+<p>表达水平: tissue RT-PCR+temporal expression after WSSV challenge </p>
+<h4 id="2-penaeidins-PEN-对WSSV感染的影响"><a href="#2-penaeidins-PEN-对WSSV感染的影响" class="headerlink" title="2. penaeidins (PEN)对WSSV感染的影响"></a>2. penaeidins (PEN)对WSSV感染的影响</h4><p>dsRNA（expression+WSSV DNA detection）+rProtein（replenishment）+survival rate</p>
+<h4 id="3-互作结构域的鉴别"><a href="#3-互作结构域的鉴别" class="headerlink" title="3. 互作结构域的鉴别"></a>3. 互作结构域的鉴别</h4><p>pull down（forward &amp; reverse）</p>
+<p>BigPEN-PEN：VP26， VP28，VP16</p>
+<p>PEN2：VP24</p>
+<p>PEN3：VP26</p>
+<h4 id="4-PEN抑制WSSV感染的机制-抑制其进入血细胞"><a href="#4-PEN抑制WSSV感染的机制-抑制其进入血细胞" class="headerlink" title="4. PEN抑制WSSV感染的机制-抑制其进入血细胞"></a>4. PEN抑制WSSV感染的机制-抑制其进入血细胞</h4><p>infection-blocking（rPEN+WSSV）+infection rate</p>
+<p>colloidal gold labelling PEN：证实了PEN蛋白和病毒颗粒的识别，比起荧光标记更加清晰</p>
+<p>flow cytometry（FITC+FSC-H）：FSC-H与细胞的相对大小相关，FSC-H值越大，细胞粒径越大；SSC与细胞内部颗粒度有关，SSC值越大，内部颗粒越多</p>
+<h4 id="5-WSSV进入细胞的机制-VP24-lvpIgR"><a href="#5-WSSV进入细胞的机制-VP24-lvpIgR" class="headerlink" title="5. WSSV进入细胞的机制-VP24-lvpIgR"></a>5. WSSV进入细胞的机制-VP24-lvpIgR</h4><p>lvpIgR：MN164612，该基因在同一染色体上有一段重复序列</p>
+<p>首先确定lvpIgR是否介导WSSV的进入：pull down（LvpIgR与VP24&#x2F;WSSV）；使用和梯度rPEN2孵育的VP2去pull down pIgR</p>
+<p>验证WSSV进入细胞的影响：HEK293中过表达pIgR进行造模，分析rPEN2孵育后的WSSV的相对含量</p>
+<p>infection-blocking：血细胞</p>
+<h4 id="6-WSSV进入细胞的机制-VP28-lvRab7"><a href="#6-WSSV进入细胞的机制-VP28-lvRab7" class="headerlink" title="6. WSSV进入细胞的机制-VP28-lvRab7"></a>6. WSSV进入细胞的机制-VP28-lvRab7</h4><p>Rab7-VP28+VP28-BigPEN</p>
+<h4 id="7-penaeidins调控机制"><a href="#7-penaeidins调控机制" class="headerlink" title="7. penaeidins调控机制"></a>7. penaeidins调控机制</h4><p>脊椎动物先天免疫信号通路：Toll，IMD，JAK-STAT</p>
+<p>南美白对虾中：<font color = red>Dorsal</font>（Toll）和<font color = red>Relish</font>（NF-κB）（IMD）被认为是抗菌肽主要通路。</p>
+<p>expression of PENs under Dorsal&#x2F;Relish dsRNA +WSSV challenge：（未见正常状态下Dorsal&#x2F;Relish的表达，以及单纯WSSV攻毒时其表达变化）</p>
+<p>Dorsal&#x2F;Relish对PENs的表达调控：dual-luciferase &amp; EMSA。不只对整个启动子进行了活力检测，同时分析了保守的κB基序，通过基序的突变，证明这些基序介导了Dorsal对BigPEN的调节。</p>
+<p><img src="/../../../images/2020-penaeidins(PEN)-block-envelope/image-20230427221846731.png" alt="image-20230427221846731"></p>
+<h3 id="单词"><a href="#单词" class="headerlink" title="单词"></a>单词</h3><p>innate：固有的，先天的<br>spectrum：光谱，范围<br>fungi：真菌<br>parasite：寄生虫<br>cathelicdin：抗菌肽<br>influenza virus：流感病毒<br>thorough：彻底的<br>disulfide：二硫化物<br>cationic：阳离子<br>postulate：推测，假定<br>retarded：发育迟缓（EMSA中描述迁移）<br>faintly：轻微的</p>
+]]></content>
+      <categories>
+        <category>Reading</category>
+      </categories>
+  </entry>
+  <entry>
     <title>The polymeric immunoglobulin receptor-like protein from Marsupenaeus japonicus is a receptor for white spot syndrome virus infection</title>
     <url>/2023/04/23/Reading/WSSV/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/</url>
     <content><![CDATA[<h3 id="作者简介"><a href="#作者简介" class="headerlink" title="作者简介"></a>作者简介</h3><p>本文2019年发表在Plos pathogens, 通讯作者为王金星, 就职于山东省动物细胞与发育生物学重点实验室, 研究方向为无脊椎动物先天免疫, 主要研究对象为对虾.<img src="/../../../images/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/image-20230423165659510-1682240438123-1.png" alt="image-20230423165659510-1682240438123-1"></p>
 <h3 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h3><p>受体结合的病毒可以通过直接释放基因组DNA到细胞或者通过胞吞(endocytosis)途径进入细胞后进行基因的表达,尤其对于DNA病毒和部分RNA病毒. 受体在病毒的感染中起了关键作用. 白斑综合征病毒(WSSV)的真正受体一直未确定. 本文鉴定了斑节对虾(<em>Marsupenaeus japonicus</em>)中的WSSV受体, 一种多聚免疫球蛋白受体样蛋白(MjplgR).1. MjpIgR在所有组织表达；2. WSSV感染引起其mRNA和蛋白表达水平增加；3. 敲降MjpIgR或使用其抗体封闭，导致WSSV感染效率降低，过表达MjpIgR使WSSV感染效率增加；4. MjpIgR能够独立的使非易感细胞变得对WSSV易感。MjpIgR胞外结构域结合WSSV的VP24胞膜蛋白，胞内结构域则结合钙调蛋白（calmodulin）。WSSV进入细胞依赖pIgR-Cam-Clathrin通路。</p>
-<h3 id="实验结果"><a href="#实验结果" class="headerlink" title="实验结果"></a>实验结果</h3><h4 id="MjpIgR在WSSV攻毒后表达上调"><a href="#MjpIgR在WSSV攻毒后表达上调" class="headerlink" title="MjpIgR在WSSV攻毒后表达上调"></a>MjpIgR在WSSV攻毒后表达上调</h4><p>分离鉴定了MjpIgR，GenBank Accession no. MH051890。在各组织均有表达，在WSSV攻毒后上调。表明MjpIgR和WSSV感染相关。<br><img src="../../../images/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/image-20230425105810257.png" alt="image-20230425105810257" style="zoom:50%;" /></p>
+<h3 id="实验结果"><a href="#实验结果" class="headerlink" title="实验结果"></a>实验结果</h3><h4 id="MjpIgR在WSSV攻毒后表达上调"><a href="#MjpIgR在WSSV攻毒后表达上调" class="headerlink" title="MjpIgR在WSSV攻毒后表达上调"></a>MjpIgR在WSSV攻毒后表达上调</h4><p>分离鉴定了MjpIgR，GenBank Accession no. MH051890。在各组织均有表达，在WSSV攻毒后上调。表明MjpIgR和WSSV感染相关。</p>
+<p><img src="/../../../images/MjplgR-WSSV-receptor-in-Marsupenaeus-japonicus/image-20230426181048397.png" alt="image-20230426181048397"></p>
 <h4 id="MjpIgR过表达能增加WSSV感染"><a href="#MjpIgR过表达能增加WSSV感染" class="headerlink" title="MjpIgR过表达能增加WSSV感染"></a>MjpIgR过表达能增加WSSV感染</h4><p>敲降&#x2F;过表达后对WSSV蛋白, DNA量, 颗粒数及存活时间统计.</p>
 <h4 id="MjpIgR能在体内外形成多聚体形式-能在WSSV感染后进入细胞质-向细胞质转移"><a href="#MjpIgR能在体内外形成多聚体形式-能在WSSV感染后进入细胞质-向细胞质转移" class="headerlink" title="MjpIgR能在体内外形成多聚体形式,能在WSSV感染后进入细胞质(向细胞质转移)"></a>MjpIgR能在体内外形成多聚体形式,能在WSSV感染后进入细胞质(向细胞质转移)</h4><p>除了细胞定位变化,还检测了膜蛋白和胞质蛋白中含量的变化.</p>
 <h4 id="MjpIgR和WSSV在血细胞中的共定位"><a href="#MjpIgR和WSSV在血细胞中的共定位" class="headerlink" title="MjpIgR和WSSV在血细胞中的共定位"></a>MjpIgR和WSSV在血细胞中的共定位</h4><p>使用Dil标记了WSSV(有膜结构?), 使用免疫组化染色MjpIgR. 使用流式对相对数量进行了统计.</p>
