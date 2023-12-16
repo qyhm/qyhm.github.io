@@ -21,7 +21,7 @@
     <title>一个关于你的故事</title>
     <url>/2023/04/18/Life/a%20story%20to%20you/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong password" data-whm="This article cannot be verified">
-  <script id="hbeData" type="hbeData" data-hmacdigest="683335a2b601b065a8257fdeb7a93316077d7485424a3c52798f7861febac294">6276b3d4f8d7bef56eedf56701ad2153e68538b8270af8c87b06a144bb7f714ddd0477fa56e50759695e941915d52b5c93b561008ac73779d4c4cc69755230ba</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="91d868016d43302041be342d6fba5bf0962d02eb15b997180a724e62576c5189">6276b3d4f8d7bef56eedf56701ad2153e68538b8270af8c87b06a144bb7f714ddd0477fa56e50759695e941915d52b5cc1392da815d9beaef6b4bb7153b2287320c5698a76e3188af290983139d2228b0c611925df3feb87d1c59b2b6897e2a3d004a712eac1c0d1c351d5a27fdb4a4875b4e7d0494e126a7705e5d39c4d39ffe7c203a819db20682c720e3ce54ce7fd4e005a402dba4c1cdd1a6df5c59d052ade41a01315f017e187e66a6d188dc5a47b90b7deccc6e756124233bec0d68dba7699e6ba27d7974f6c5bc4f6454807bfe7a7fa5f8d853952c088d623cfbf7f2c1bf0a4947862cbc635f17b36ffba64fcb007de44b4e87462b313271cfcde0904b24e2295813464bade6ebb23da97263a8613e6e97097ff551818f9b3f277ef78f25a58f19314f5941a4e8b8a23e2958c16840a1030da86e5a7f21231bd8d536cc828a46a946de510a2e7ca1a4bbd873a2e86597b4d42d7a4dc58033b9aa17122bdfa566da843e72ed228a4785ad0c1c9</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-flip">
       <input class="hbe hbe-input-field hbe-input-field-flip" type="password" id="hbePass">
@@ -34,6 +34,41 @@
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>Life</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Generation of biallelic F0 mutants</title>
+    <url>/2023/04/28/Reading/WSSV/F0-biallelic-generationI/</url>
+    <content><![CDATA[<h3 id="Efficient-multiplex-biallelic-zebrafish-genome-editing-using-a-CRISPR-nuclease-system"><a href="#Efficient-multiplex-biallelic-zebrafish-genome-editing-using-a-CRISPR-nuclease-system" class="headerlink" title="Efficient multiplex biallelic zebrafish genome editing using a CRISPR nuclease system"></a>Efficient multiplex biallelic zebrafish genome editing using a CRISPR nuclease system</h3><ol>
+<li><p>Cas9经过斑马鱼密码子优化</p>
+</li>
+<li><p>sgRNA的选择5‘端带有GG的靶点：BsmbI酶切位点，切点在酶切位点序列外侧，形成粘性末端。</p>
+<p><img src="/../../../images/F0-biallelic-generationI/image-20230428144630557.png" alt="image-20230428144630557"></p>
+</li>
+<li><p>使用的是nls-zCas9-nls的<font color = red>mRNA</font>进行注射，改变gRNA的量，可以减少突变率，使得高突变（biallelic mutation-like）造成的胚胎致死存活至成体。</p>
+</li>
+<li><p>本研究中，在F0存在高的突变效率，结果是F0的杂交F1为biallelic-纯合突变。测序结果表明存在部分in-frame的indel，可以通过设计位点在关键序列区域使蛋白功能缺陷。</p>
+</li>
+<li><p><strong>脱靶检测</strong></p>
+</li>
+</ol>
+<ul>
+<li>保留种子序列，对非种子序列不同错配数的预测脱靶位点。</li>
+<li>不同gRNA靶向同一个基因，看是否具有一致的表型。</li>
+<li>使用对应mRNA回救相应基因的敲除。</li>
+</ul>
+<h3 id="Generation-of-biallelic-F0-mutants-in-medaka-using-the-CRISPR-x2F-Cas9-system"><a href="#Generation-of-biallelic-F0-mutants-in-medaka-using-the-CRISPR-x2F-Cas9-system" class="headerlink" title="Generation of biallelic F0 mutants in medaka using the CRISPR&#x2F;Cas9 system"></a>Generation of biallelic F0 mutants in medaka using the CRISPR&#x2F;Cas9 system</h3><ol>
+<li>Cas9蛋白-crRNA-tracrRNA复合物</li>
+<li>同时使用两个sgRNA，进行片段删除：470bp和960bp</li>
+<li><strong>脱靶检测</strong>：在线预测软件Match-CRISPR</li>
+</ol>
+<h3 id="A-simple-and-effective-F0-knockout-method-for-rapid-screening-of-behaviour-and-other-complex-phenotypes"><a href="#A-simple-and-effective-F0-knockout-method-for-rapid-screening-of-behaviour-and-other-complex-phenotypes" class="headerlink" title="A simple and effective F0 knockout method for rapid screening of behaviour and other complex phenotypes"></a>A simple and effective F0 knockout method for rapid screening of behaviour and other complex phenotypes</h3><ol>
+<li>高效在斑马鱼胚胎敲除，在F0即可获得纯合突变（90%的胚胎）；实现了多基因敲除</li>
+<li>RNPs注射，使用3个RNP靶向同一个基因即能够取得较高（90-95%）的biallelic突变，再增加RNP提升效果不大，同时，胚胎的存活率在可接受的范围（&gt;75%）</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Reading</category>
       </categories>
   </entry>
   <entry>
